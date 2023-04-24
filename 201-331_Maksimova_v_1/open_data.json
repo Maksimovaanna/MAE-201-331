@@ -1,0 +1,74 @@
+{
+    "credentials": [
+        {
+            "login": "log1",
+            "password": "pass1",
+            "site": "https://vk.ru"
+        },
+        {
+            "login": "log2",
+            "password": "pass2",
+            "site": "https://telegram.com"
+        },
+        {
+            "login": "log3",
+            "password": "pass3",
+            "site": "https://youtube.com"
+        },
+        {
+            "login": "log4",
+            "password": "pass4",
+            "site": "https://tsum.ru"
+        },
+        {
+            "login": "log5",
+            "password": "pass5",
+            "site": "https://lamoda.ru"
+        },
+        {
+            "login": "log6",
+            "password": "pass6",
+            "site": "https://yandex.ru"
+        },
+        {
+            "login": "log7",
+            "password": "pass7",
+            "site": "https://wiledberries.ru"
+        },
+        {
+            "login": "log8",
+            "password": "pass8",
+            "site": "https://ozon.ru"
+        },
+        {
+            "login": "log9",
+            "password": "pass9",
+            "site": "https://yakitoriya.ru"
+        },
+        {
+            "login": "log10",
+            "password": "pass10",
+            "site": "https://spacesushi.ru"
+        },
+        {
+            "login": "log11",
+            "password": "pass11",
+            "site": "https://wink.ru"
+        },
+        {
+            "login": "log12",
+            "password": "pass12",
+            "site": "https://google.com"
+        },
+        {
+            "login": "log13",
+            "password": "pass13",
+            "site": "https://teams.com"
+        },
+        {
+            "login": "log14",
+            "password": "pass14",
+            "site": "https://discord.com"
+        }
+    ]
+}
